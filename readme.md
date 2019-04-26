@@ -6,7 +6,7 @@ md5 for nodejs
 ##usage
 
 ```
-var md5 = require('node-md5');
+const md5 = require('md5-node');
 md5('hello world');
 // 5eb63bbbe01eeed093cb22bb8f5acdc3
 ```
